@@ -25,4 +25,5 @@ IG_UI_FR = {
 	IGUI_VehicleNameSpecialdivisionsTruckFlg = "ATF Camion",
 	IGUI_VehicleNameSpecialdivisionsTruckFlg2 = "DEA Camion",
 	IGUI_VehicleNameCadillacRangerSWATFBSP = "Louisville SWAT Cadillac Ranger",
+	IGUI_VehicleNamehmmwvDEASev = "DEA Humvee",
 }
